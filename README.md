@@ -1,1 +1,2 @@
-这只是一个目录
+* [JAVA编程](https://github.com/hanjukuhero/blog/labels/JAVA)
+* [MySQL](https://github.com/hanjukuhero/blog/labels/MySQL)
